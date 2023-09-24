@@ -14,7 +14,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/ai-generated-8221381_1280.jpg);
+    background-image: url(4.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -28,7 +28,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/green1.jpg);
+    background-image: url(4.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -42,7 +42,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/blue.jpg);
+    background-image: url(4.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -90,7 +90,7 @@ p {
 
 
 .second {
-    background-image: url(/img/black-4340959_1280.jpg);
+    background-image: url(4.jpg);
     background-attachment: fixed;
     height: 950px;
     flex-direction: row;
